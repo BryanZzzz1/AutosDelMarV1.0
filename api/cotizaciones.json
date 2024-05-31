@@ -1,0 +1,60 @@
+{
+  "cotizaciones": [
+    {
+      "id": "6454",
+      "nombre": "bryan",
+      "correo": "braywrya@adwda.cl",
+      "telefono": "123123123",
+      "modelo": "dawdawda",
+      "anio": "1200"
+    },
+    {
+      "id": "b831",
+      "nombre": "123123",
+      "correo": "adwdawda@dawdawd.cl",
+      "telefono": "123123",
+      "modelo": "123123",
+      "anio": "123123"
+    },
+    {
+      "id": "b2e3",
+      "nombre": "dawdaw",
+      "correo": "bryansilvamedina@gmail.com",
+      "telefono": "2131231",
+      "modelo": "dawdawd",
+      "anio": "awdawdaw"
+    },
+    {
+      "id": "5149",
+      "nombre": "1123123",
+      "correo": "awdawdawdawd",
+      "telefono": "123123",
+      "modelo": "123123",
+      "anio": "12312"
+    },
+    {
+      "id": "93ab",
+      "nombre": "q pasa",
+      "correo": "qpasa@pasa.cl",
+      "telefono": "12312312",
+      "modelo": "lanae",
+      "anio": "3121"
+    },
+    {
+      "id": "6ba9",
+      "nombre": "123123",
+      "correo": "bryansilvamedina@gmail.com",
+      "telefono": "1231231",
+      "modelo": "dawdaw",
+      "anio": "1231231234123123"
+    },
+    {
+      "id": "2ee5",
+      "nombre": "aegarg",
+      "correo": "agsdgas@gmail.com",
+      "telefono": "91490124931",
+      "modelo": "abc",
+      "anio": "2004"
+    }
+  ]
+}
